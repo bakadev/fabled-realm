@@ -125,3 +125,41 @@ High Vitality, absorbs damage, slow and unstoppable. Strong Guard cards, few big
 **Nat 20:** > *The temple called it a weather event. The temple was not wrong.*
 
 ## Art Notes
+<!-- See art/style-guide.md for global tone, palette, and illustration direction — reconcile these notes with that guide when it's filled in -->
+
+### Character Design
+
+**Scale:** He should fill the frame more than any other character would. Not because he's posed dramatically — he just takes up space. He's standing normally. That's the problem.
+
+**Proportions:** Mismatched. One shoulder higher than the other. Hands not quite the same size. Parts that look like they came from different people, because they did. Nothing is wrong exactly — it just doesn't add up.
+
+**Skin:** Green. Not sickly or desaturated — a warm, flat green. He looks fine. He is fine.
+
+**Stitches:** Visible across skin and armor both. The stitching on his body and the stitching on his armor are indistinguishable in quality — same hand, same thread, same indifference to aesthetics.
+
+**Neck bolts:** Prominent. Slightly too large. Electricity arcs off them passively — not dramatic, not weaponized, just ambient. Like a light left on. He is not doing this on purpose.
+
+**Armor:** Patchwork — pieces from different sets, different eras, held together with the same stitching as his skin. It fits the way everything fits him: technically, but not well.
+
+**Weapon:** None. His right hand holds the pitchfork shield. His left hand is open — relaxed, mid-gesture, like he's about to wave at someone or point at something interesting. This is his natural state.
+
+### The Pitchfork Shield
+
+Not forged. Found. It started as something else — a barn door, a wagon wheel, something large and flat — and pitchforks have been accumulating in it ever since. Some from mobs. Some he may have added himself. He considers it a collection.
+
+The electricity from his neck bolts conducts through the metal tines. The shield glows faintly. He hasn't noticed.
+
+It functions as a shield when he holds it up and as a club when he swings it. He does not see a distinction.
+
+### Tone
+
+Reference: Shrek, not Frankenstein (1931). Imposing in scale, not in menace. He should look like a large person having a reasonable time.
+
+**Expression:** Earnest. Slightly confused. Present. Not angry, not sad — he's just here, looking at something, possibly about to say hello. The open hand matters: he looks friendly. That's what makes it funny.
+
+**What to avoid:**
+- Boris Karloff stiff-arms and rigid posture
+- Sad eyes, pathos, loneliness — he is not suffering, he is just catastrophic
+- Horror color palette — desaturated, cold, blue-grey
+- Menacing poses or expressions — he doesn't have a threatening bone in his body (some of those bones aren't his)
+- Explaining the neck bolts visually — they should look like they do something, but what exactly should remain unclear
