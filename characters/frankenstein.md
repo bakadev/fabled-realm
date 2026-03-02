@@ -61,21 +61,21 @@ High Vitality, absorbs damage, slow and unstoppable. Strong Guard cards, few big
 
 ## Fabled Gifts (4 cards — 2 types × 2 copies)
 
-### [Gift Name]
+### Load-Bearing Issue
 
 | Mana | Tier | Effect |
 |------|------|--------|
-| 0 | Nat 1 | |
-| 1 | Standard | |
-| 2 | Nat 20 | |
+| 0 | Nat 1 | One of Frankenstein's active Guard cards takes 1 damage. If he has no Guard cards, nothing happens. |
+| 1 | Standard | Discard the active Guard card with the most remaining Guard symbols belonging to a target player. On a tie, target player chooses which is discarded. |
+| 2 | Nat 20 | Apply the Standard effect to all players including Frankenstein. |
 
-### [Gift Name]
+### Weather Event
 
 | Mana | Tier | Effect |
 |------|------|--------|
-| 0 | Nat 1 | |
-| 1 | Standard | |
-| 2 | Nat 20 | |
+| 0 | Nat 1 | Deal 1 damage to a chosen target. This damage cannot cause that player to become Fallen. |
+| 1 | Standard | Deal 1 damage to all other players. Frankenstein does not take this damage. |
+| 2 | Nat 20 | Deal 2 damage to all players including Frankenstein. Players who survive skip their next turn. |
 
 ---
 
@@ -108,7 +108,20 @@ High Vitality, absorbs damage, slow and unstoppable. Strong Guard cards, few big
 ### He Wasn't Done
 > *Nobody told him to stop. He checked. Nobody had.*
 
-### Fabled Gifts
-> *TBD — draft once gifts are named*
+### Load-Bearing Issue
+
+**Nat 1:** > *He went to demonstrate something. He demonstrated it on himself.*
+
+**Standard:** > *He found the weak point. He didn't look for it. He just walked into it.*
+
+**Nat 20:** > *He was just passing through. Several things were in the way. They are no longer in the way.*
+
+### Weather Event
+
+**Nat 1:** > *Something escaped the bolts. This happens.*
+
+**Standard:** > *The bolts crackled. Everyone present took this personally.*
+
+**Nat 20:** > *The temple called it a weather event. The temple was not wrong.*
 
 ## Art Notes
