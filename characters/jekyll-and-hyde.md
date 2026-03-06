@@ -3,7 +3,7 @@
 ## Legend
 
 ## D&D Archetype
-Mage/Wizard (Jekyll) / Rogue (Hyde)
+Mage/Wizard (Jekyll) · Rogue (Hyde)
 
 ## Set
 Expansion 1
@@ -13,6 +13,10 @@ Expansion 1
 | Stat | Value |
 |------|-------|
 | Vitality | 8 |
+
+## Passive *(TBD — not yet in design scope)*
+
+## Playstyle
 
 ---
 
@@ -50,17 +54,39 @@ The centerpiece of the deck — a single card that flips the character's identit
 
 ---
 
+## Base Deck (26 cards)
+<!-- Note: Jekyll and Hyde share a deck but may have form-specific cards. Structure TBD pending Transformation Card design. -->
+
+| Card | Name | Symbols | Copies | Form | Channel | Reasoning |
+|------|------|---------|--------|------|---------|-----------|
+| | | | | | | |
+
+**Symbol totals:**
+
+**Design notes:**
+
+---
+
 ## Fabled Gifts
+<!-- Jekyll and Hyde each have their own gifts, accessible only in their respective forms -->
 
 ### Jekyll — [Gift Name]
-**Type:**
-**Cost:**
-**Effect:**
+
+| Mana | Tier | Effect |
+|------|------|--------|
+| 0 | Nat 1 | |
+| 1 | Standard | |
+| 2 | Nat 20 | |
 
 ### Hyde — [Gift Name]
-**Type:**
-**Cost:**
-**Effect:**
+
+| Mana | Tier | Effect |
+|------|------|--------|
+| 0 | Nat 1 | |
+| 1 | Standard | |
+| 2 | Nat 20 | |
+
+---
 
 ## Flavor Text
 
