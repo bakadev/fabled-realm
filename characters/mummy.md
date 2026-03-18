@@ -3,7 +3,7 @@
 ## Legend
 
 ## D&D Archetype
-Cleric
+Dark Cleric
 
 ## Set
 Base
